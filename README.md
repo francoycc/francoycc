@@ -13,7 +13,7 @@ Te invito a conocer mis proyectos:
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"
+  <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
  
@@ -40,6 +40,7 @@ Te invito a conocer mis proyectos:
 
 ## Contacto
 📫 Escribime un correo: <a href="francoycc@gmail.com">francoycc@gmail.com</a>
+
 <a href="https://linkedin.com/in/francoyucci" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  francoyucci-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
