@@ -1,9 +1,12 @@
 <h1 align="center"><b>Soy Franco Yucci </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-### 👨🏻‍💻 &nbsp;Sobre mi
+
+## Sobre mi
+
 Soy un estudiante de Ingeniería en Sistemas de 24 años, en busca de un entorno profesional que me desafíe y me ofrezca oportunidades de crecimiento.
 Soy una persona proactiva, organizada y responsable, con una gran capacidad para el trabajo en equipo y el deseo de mejorar mis habilidades y conocimientos de forma constante.
 Actualmente, mi pasión me ha llevado a especializarme en ciencia de datos, por lo que me estoy capacitando en Data Analytics, Power BI y SQL. Además, estoy ampliando mis conocimientos en desarrollo backend con Java/Spring Boot y Python.
 Te invito a conocer mis proyectos:
+
 ## Mis Skills incluyen:
 
 <h4> Lenguajes </h4>
@@ -38,7 +41,7 @@ Te invito a conocer mis proyectos:
 ## Contacto
 📫 Escribime un correo: <a href="francoycc@gmail.com">francoycc@gmail.com</a>
 <a href="https://linkedin.com/in/francoyucci" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  francoyucci-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 
 
